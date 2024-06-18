@@ -1,4 +1,4 @@
-# Controls
+# Controls (EN)
 
 ## Movement
 
@@ -24,9 +24,18 @@ To play, approach the arcade machines and press the E key.
 -- **Move**: WASD / Arrows
 -- **Jump**: Space
 
+## SpaceInvaders
+
+-- **Move**: WASD / Arrows / Drag the ship
+-- **Shoot**: Space / Left Click
+
+## Arkanoid
+
+-- **Move**: WASD / Arrows / Drag the platform
+
 ---
 
-# Controles
+# Controles (ESP)
 
 ## Movimiento
 
@@ -51,3 +60,12 @@ Para jugar, acércate a las máquinas recreativas y pulsa la tecla E.
 
 -- **Mover**: WASD / Flechas
 -- **Saltar**: Espacio
+
+## SpaceInvaders
+
+-- **Mover**: WASD / Flechas / Agarra la nave
+-- **Disparar**: Espacio / Left Click
+
+## Arkanoid
+
+-- **Mover**: WASD / Flechas / Agarra la plataforma
